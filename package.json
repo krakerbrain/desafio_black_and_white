@@ -1,0 +1,24 @@
+{
+  "name": "desafio_black_and_white",
+  "version": "1.0.0",
+  "description": "Segundo desafío del módulo 5 desarrollo backend en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krakerbrain/desafio_black_and_white.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krakerbrain/desafio_black_and_white/issues"
+  },
+  "homepage": "https://github.com/krakerbrain/desafio_black_and_white#readme",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "yargs": "^17.1.1"
+  }
+}
